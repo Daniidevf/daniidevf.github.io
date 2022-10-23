@@ -657,6 +657,10 @@ h3.my-profession
 {
     color: var(--skin-color);
 }
+.orange
+{
+    color: orange;
+}
 .portofolio .portofolio-item
 {
     flex: 0 0 33.33%;
